@@ -35,7 +35,7 @@ Apple would like to support the OpenStreetMap ecosystem by releasing high-qualit
 
 ## Documentation
 
-The height data is measured in meters. Please refer to [OSM height measurements]((https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
+The height data is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
 
 ## Data Catalog
 
