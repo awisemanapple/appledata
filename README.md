@@ -19,15 +19,19 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 ## FAQ
 
 **What data is included?**
+
 Approximately **TBD** million building heights correlated to OSM building ID for portions of Germany & France in [**Shapefile**](http://wiki.openstreetmap.org/wiki/Shapefiles) format. 
 
 **What was the creation process?**
+
 These building footprints were hand digitized from very high resolution aerial photography captured by Microsoft. The Height attribute was interpolated from a digital terrain model derived from the same data.
 
 **When was the data captured?**
+
 The footprints were digitized in 2015 from imagery captured in 2014 & 2015
 
 **Why is the data being released?**
+
 Apple would like to support the OpenStreetMap ecosystem by releasing high-quality height data to enhance existing building footprint data.
 
 
