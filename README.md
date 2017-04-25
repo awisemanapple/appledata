@@ -39,7 +39,7 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 
 ## Data Catalog
 
-###Germany
+**Germany**
 
 | Country     | City            | Description                                                                        | Link  |
 | ------------|---------------  |------------------------------------------------------------------------------------|-------|
@@ -47,7 +47,7 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 | Germany     | TBD             | TBD building heights in meters matched to its respective building footprint OSM_ID | TBD   |
                                                                           
 
-###France
+**France**
 
 | Country     | City            | Description                                                                        | Link  |
 | ------------|---------------  |------------------------------------------------------------------------------------|-------|
