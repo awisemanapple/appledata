@@ -19,7 +19,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 ## FAQ
 
 **What the data include:**
-Approximately **TBD** million building heights correlated to OSM building ID for portions of Germany & France in **Shapefile** format. 
+Approximately **TBD** million building heights correlated to OSM building ID for portions of Germany & France in [**Shapefile**](http://wiki.openstreetmap.org/wiki/Shapefiles) format. 
 
 **Creation Process:**
 These building footprints were hand digitized from very high resolution aerial photography captured by Microsoft. The Height attribute was interpolated from a digital terrain model derived from the same data.
