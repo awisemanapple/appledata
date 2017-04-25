@@ -34,4 +34,9 @@ Apple would like to support the OpenStreetMap ecosystem by releasing high-qualit
 
 The height data is measured in meters. Meters are the default unit for OSM height measurements (https://wiki.openstreetmap.org/wiki/Map_Features/Units); no unit conversion is needed.
 
+## Data Catalog
 
+| Country     | Description   | Link    | Notes |
+| ------------|---------------|---------|-------|
+| TBD         | TBD           | TBD     | TBD   |
+| TBD         | TBD           | TBD     | TBD   |
