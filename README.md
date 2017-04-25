@@ -14,7 +14,7 @@ This dataset contains approximately TBD building heights matched to the respecti
 This contribution is made available for use under the OpenStreetMap [ODbL](https://opendatacommons.org/licenses/odbl/) license.
 
 
-## FAQ
+## Documentation
 
 **What data is included?**
 
@@ -32,10 +32,10 @@ The footprints were digitized in 2015 from imagery captured in 2014 & 2015
 
 Apple would like to support the OpenStreetMap ecosystem by releasing high-quality height data to enhance existing building footprint data.
 
-
-## Documentation
+**What unit is the data measured in?**
 
 The height data is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
+
 
 ## Data Catalog
 
