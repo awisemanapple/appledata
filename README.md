@@ -1,2 +1,1 @@
-# private
-# appledata
+# Building height data
