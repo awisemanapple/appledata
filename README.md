@@ -1,6 +1,6 @@
 # Apple Building Height Data
 
-This is not an import (https://wiki.openstreetmap.org/wiki/Import) proposal.  We are simply making data available to the OpenStreetMap community for an import.  Please be sure to review and obide by the following guidleines prior to performing any import.  
+This is not an import (https://wiki.openstreetmap.org/wiki/Import) proposal.  We are simply making data available to the OpenStreetMap community for a potential import.  Please be sure to review and obide by the following guidleines prior to performing any import.  
 
 https://wiki.openstreetmap.org/wiki/Import/Guidelines
 https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct
@@ -18,7 +18,7 @@ This contribution is made available for use under the OpenStreetMap ODbL (https:
 ## FAQ
 
 **What the data include:**
-Approximately **TBD** million building footprints for portions of Germany & France in **Shapefile** format. 
+Approximately **TBD** million building heights correlated to OSM building ID for portions of Germany & France in **Shapefile** format. 
 
 **Creation Process:**
 These building footprints were hand digitized from very high resolution aerial photography captured by Microsoft. The Height attribute was interpolated from a digital terrain model derived from the same data.
@@ -27,9 +27,11 @@ These building footprints were hand digitized from very high resolution aerial p
 The footprints were digitized in 2015 from imagery captured in 2014 & 2015
 
 **Why are the data being released?**
-Apple would like to support the OpenStreetMap ecosystem by releasing additional high-quality building footprint data .
+Apple would like to support the OpenStreetMap ecosystem by releasing high-quality height data to enhance existing building footprint data.
 
 
 ## Documentation
 
 The height data is measured in meters. Meters are the default unit for OSM height measurements (https://wiki.openstreetmap.org/wiki/Map_Features/Units); no unit conversion is needed.
+
+
