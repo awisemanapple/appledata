@@ -22,11 +22,11 @@ Approximately **TBD** million building heights correlated to OSM building ID for
 
 **What was the creation process?**
 
-These building footprints were hand digitized from very high resolution aerial photography captured by Microsoft. The Height attribute was interpolated from a digital terrain model derived from the same data.
+The building heights were measured by TBD and then matched to its respective building footprint ID in OSM.    
 
 **When was the data captured?**
 
-The footprints were digitized in 2015 from imagery captured in 2014 & 2015
+The building heights were measured and recorded from imagery captured in TBD.  The OSM_IDs were captured and matched on XX/XX/XXXXX.  
 
 **Why is the data being released?**
 
