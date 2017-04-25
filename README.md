@@ -12,7 +12,7 @@ This dataset contains approximately TBD building heights matched to the respecti
 
 ## License
 
-This contribution is made available for use under the OpenStreetMap ODbL (https://opendatacommons.org/licenses/odbl/) license.  https://opendatacommons.org/licenses/odbl/
+This contribution is made available for use under the OpenStreetMap ODbL (https://opendatacommons.org/licenses/odbl/) license.
 
 
 ## FAQ
