@@ -1,10 +1,8 @@
 # Apple Building Height Data
 
-This is not an [import](https://wiki.openstreetmap.org/wiki/Import) proposal.  We are simply making data available to the OpenStreetMap community for a potential import.  Please be sure to review and obide by the following guidelines prior to performing any import.  
+This is not an [import](https://wiki.openstreetmap.org/wiki/Import) proposal.  We are simply making data available to the OpenStreetMap community for a potential import.  
 
-[Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines)
-
-[Automated Edits Code of Conduct](https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct)
+Please be sure to review and obide by the following guidelines prior to performing any import: [Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines) and [Automated Edits Code of Conduct](https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct).
 
 
 ## Introduction
