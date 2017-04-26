@@ -59,8 +59,13 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 
 | Country     | Subdivision     | Description                                                                        | Link  |
 | ------------|---------------  |------------------------------------------------------------------------------------|-------|
-| France      | TBD             | TBD building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | TBD             | TBD building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-
-
-
+| France      | Aquitaine       | 36 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Brittany        | 7 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Centre-Val de Loire | 8 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Île-de-France   | 1,060,323 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Nord-Pas-de-Calais | 7 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Lower Normandy  | 9 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Upper Normandy  | 1 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Pays de la Loire| 56,536 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Picardy  | 73,653 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | Rhône-Alpes  | 54,096 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
