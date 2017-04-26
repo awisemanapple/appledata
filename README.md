@@ -18,7 +18,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What was the creation process?**
 
-The building heights were measured using sensors from low altitude aerial imagery and then matched to its respective building footprint ID in OSM.  Due to the process in which the heights were calulcated, the provided height information is simply an estimation and not an absolute measure of height.  
+The building heights were measured using sensors from low altitude aerial imagery and then matched to its respective building footprint ID in OSM.  Due to the process in which the heights were calculated, the provided height information is simply an estimation and not an absolute measure of height.  
 
 **When was the data captured?**
 
