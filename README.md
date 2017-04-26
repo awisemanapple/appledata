@@ -22,11 +22,11 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What was the creation process?**
 
-The building heights were measured by TBD and then matched to its respective building footprint ID in OSM.    
+The building heights were measured using sensors from low altitude aerial imagery and then matched to its respective building footprint ID in OSM.  Due to the process in which the heights were calulcated, the provided height information is simply an estimation and not an absolute measure of height.  
 
 **When was the data captured?**
 
-The building heights were measured and recorded from imagery captured in TBD.  The OSM_IDs were captured and matched on XX/XX/XXXXX.  
+The building heights were measured and calculated in 2013.  The OSM_IDs were captured and matched on 04/19/2017.  
 
 **Why is the data being released?**
 
@@ -42,7 +42,7 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 **Germany**
 
 | Country     | Subdivision     | Description                                                                            | Link  |
-| ------------|---------------  |----------------------------------------------------------------------------------------|-------|
+| ------------|-----------------|----------------------------------------------------------------------------------------|-------|
 | Germany     | Brandenburg     | 19,279 building heights in meters matched to its respective building footprint OSM_ID  | TBD   |
 | Germany     | Berlin          | 298,326 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
 | Germany     | Bavaria         | 48,297 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
@@ -58,7 +58,7 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 **France**
 
 | Country     | Subdivision     | Description                                                                        | Link  |
-| ------------|---------------  |------------------------------------------------------------------------------------|-------|
+| ------------|-----------------|------------------------------------------------------------------------------------|-------|
 | France      | Aquitaine       | 36 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
 | France      | Brittany        | 7 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
 | France      | Centre-Val de Loire | 8 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
