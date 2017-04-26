@@ -7,7 +7,7 @@ Please be sure to review and obide by the following guidelines prior to performi
 
 ## Introduction
 
-This dataset contains approximately TBD building heights matched to the respective building OSM_ID for several major cities throughout Germany & France. 
+This dataset contains approximately **1,670,427** building heights matched to OSM buildings for areas throughout Germany & France. 
 
 ## License
 
