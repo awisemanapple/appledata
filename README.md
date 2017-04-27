@@ -67,7 +67,12 @@ The height data is measured in meters. Please refer to [OSM height measurements]
 | France      | Rhône-Alpes  | 54,096 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
 
 
-## Additional Comments
+## Additional Information
+
+For more information please contact our challenge admin [Andrew Wiseman](https://www.openstreetmap.org/user/Marion%20Barry)
+
+
+## Comments
 This is not an [import](https://wiki.openstreetmap.org/wiki/Import) proposal.  We are simply making data available to the OpenStreetMap community for a potential import.  
 
 Please be sure to review and obide by the following guidelines prior to performing any import: [Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines) and [Automated Edits Code of Conduct](https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct).
