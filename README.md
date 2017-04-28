@@ -40,23 +40,23 @@ CHE
 CHN
 CZE
 DEU
-DNK - yes
-EGY - yes
+DNK - 11622
+EGY - 7
 ESP
-FRA - yes
+FRA - 852530
 GBR
-HKG - yes
+HKG - 436
 HUN
-IDN - yes
+IDN - 26
 IRL
 ITA
 JPN
-MAC - yes
+MAC - 2
 MEX
 NLD
 NZL
-POL - yes
-SGP - yes
+POL - 63
+SGP - 426
 SWE
 USA
 VAT
