@@ -24,16 +24,43 @@ The building heights were measured using sensors from low altitude aerial imager
 
 The building heights were measured and calculated in 2013.  The OSM_IDs were captured and matched on 04/19/2017.  
 
-**Why is the data being released?**
-
-Apple would like to support the OpenStreetMap ecosystem by releasing high-quality height data to enhance existing building footprint data.
-
 **What unit is the data measured in?**
 
 The height data is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
 
 
 ## Data Catalog
+
+ARG
+AUS
+BEL
+BRA
+CAN
+CHE
+CHN
+CZE
+DEU
+DNK - yes
+EGY - yes
+ESP
+FRA - yes
+GBR
+HKG - yes
+HUN
+IDN - yes
+IRL
+ITA
+JPN
+MAC - yes
+MEX
+NLD
+NZL
+POL - yes
+SGP - yes
+SWE
+USA
+VAT
+
 
 **Germany**
 
