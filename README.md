@@ -95,10 +95,9 @@ VAT
 
 
 ## Additional Information
-
 For more information please contact our community lead [Andrew Wiseman](https://www.openstreetmap.org/user/Marion%20Barry)
 
 
 ## Comments
-We are making data available to the OpenStreetMap community. If you are interesting in importing the data, please follow the guidelines below: [Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines) and [Automated Edits Code of Conduct](https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct).
+If you are interesting in importing the data, please follow the guidelines below: [Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines) and [Automated Edits Code of Conduct](https://wiki.openstreetmap.org/wiki/Automated_Edits_code_of_conduct).
 
