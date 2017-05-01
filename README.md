@@ -19,7 +19,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What was the creation process?**
 
-The building heights were measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated the height value is an estimate and not the absolute measure of the building's height.  
+The building heights were measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
 
 **When was the data captured?**
 
