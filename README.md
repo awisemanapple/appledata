@@ -15,7 +15,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**852,379** building heights in France and **11,622** building heights in Denmark.  The building heights are labeled "top_height".  Each top_height value includes a latitude & longitude for its respective building center point.  
+**852,379** building heights in France, mostly around Paris, and **11,622** building heights in Denmark, mostly around Copenhagen.  The building heights are labeled "top_height".  Each top_height value includes a latitude & longitude for its respective building center point.  
 
 **What was the creation process?**
 
