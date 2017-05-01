@@ -3,7 +3,8 @@
 
 ## Introduction
 
-This dataset contains approximately **1,670,427** building heights matched to OSM buildings for areas throughout Germany & France. 
+This dataset contains **864,001** building heights for areas throughout France & Denmark. 
+
 
 ## License
 
@@ -14,84 +15,28 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**425,751** building heights in Germany and **1,244,676** building heights in France correlated to OSM building ID in text file format. 
+**852,379** building heights in France and **11,622** building heights in Denmark.  The building heights are labeled "top_height".  Each top_height value includes a latitude & longitude for its respective building center point.  
 
 **What was the creation process?**
 
-The building heights were measured using sensors from low altitude aerial imagery and then matched to its respective building footprint ID in OSM.  Due to the process in which the heights were calculated, the provided height information is simply an estimation and not an absolute measure of height.  
+The building heights were measured using sensors from low altitude aerial imagery.  Due to the process in which the heights were calculated, the provided height information is simply an estimation and not an absolute measure of height.  
 
 **When was the data captured?**
 
-The building heights were measured and calculated in 2013.  The OSM_IDs were captured and matched on 04/19/2017.  
+The building heights (top_height) were measured and calculated in 2013.  The latitude and longitude centroid values were calculated and captured on 04/28/2017.  
 
 **What unit is the data measured in?**
 
-The height data is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
+The top_height data value is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
 
 
 ## Data Catalog
 
-ARG
-AUS
-BEL
-BRA
-CAN
-CHE
-CHN
-CZE
-DEU
-DNK - 11622
-EGY - 7
-ESP
-FRA - 852530
-GBR
-HKG - 436
-HUN
-IDN - 26
-IRL
-ITA
-JPN
-MAC - 2
-MEX
-NLD
-NZL
-POL - 63
-SGP - 426
-SWE
-USA
-VAT
-
-
-**Germany**
-
-| Country     | Subdivision     | Description                                                                            | Link  |
-| ------------|-----------------|----------------------------------------------------------------------------------------|-------|
-| Germany     | Brandenburg     | 19,279 building heights in meters matched to its respective building footprint OSM_ID  | TBD   |
-| Germany     | Berlin          | 298,326 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Bavaria         | 48,297 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Hamburg         | 101 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Mecklenburg-Western Pomerania | 121 building heights in meters matched to its respective building footprint OSM_ID|TBD|
-| Germany     | Lower Saxony	  | 13 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | North Rhine-Westphalia | 50,329 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Schleswig-Holstein | 6 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Saxony | 232 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Saxony-Anhalt | 9,041 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| Germany     | Thuringia | 6 building heights in meters matched to its respective building footprint OSM_ID | TBD   |                                                               
-
-**France**
-
-| Country     | Subdivision     | Description                                                                        | Link  |
+| Country     | Count           | Description                                                                        | Link  |
 | ------------|-----------------|------------------------------------------------------------------------------------|-------|
-| France      | Aquitaine       | 36 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Brittany        | 7 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Centre-Val de Loire | 8 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Île-de-France   | 1,060,323 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Nord-Pas-de-Calais | 7 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Lower Normandy  | 9 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Upper Normandy  | 1 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Pays de la Loire| 56,536 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Picardy  | 73,653 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
-| France      | Rhône-Alpes  | 54,096 building heights in meters matched to its respective building footprint OSM_ID | TBD   |
+| France      | 852,379         | Building heights (top_height) in meters along with building center point location  | TBD   |
+| Denmark     | 11,622          | Building heights (top_height) in meters along with building center point location  | TBD   |
+
 
 
 ## Additional Information
