@@ -23,7 +23,7 @@ The building heights were measured using sensors from low altitude aerial imager
 
 **When was the data captured?**
 
-The building heights (top_height) were measured and calculated in 2013.  The latitude and longitude centroid values were calculated and captured on 04/28/2017.  
+The building heights (top_height) were measured and calculated in 2013.  The latitude (lat) and longitude (long) values were calculated and captured on 04/28/2017.  
 
 **What unit is the data measured in?**
 
