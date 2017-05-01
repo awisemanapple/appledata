@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This dataset contains **864,001** building heights for areas throughout France & Denmark. 
+The dataset contains **864,001** building heights for parts of France & Denmark. 
 
 
 ## License
@@ -15,11 +15,11 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**852,379** building heights in France and **11,622** building heights in Denmark.  The building heights are labeled "top_height".  Each top_height value includes a latitude & longitude for its respective building center point.  
+**852,379** building heights in France and **11,622** building heights in Denmark. The building heights are labeled "top_height". Each top_height has a latitude & longitude coordinate representing the building's center point.  
 
 **What was the creation process?**
 
-The building heights were measured using sensors from low altitude aerial imagery.  Due to the process in which the heights were calculated, the provided height information is simply an estimation and not an absolute measure of height.  
+The building heights were measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
 
 **When was the data captured?**
 
