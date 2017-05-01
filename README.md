@@ -34,7 +34,7 @@ The top_height data value is measured in meters. Please refer to [OSM height mea
 
 | Country     | Count           | Description                                                                        | Link  |
 | ------------|-----------------|------------------------------------------------------------------------------------|-------|
-| France      | 852,379         | Building heights (top_height) in meters along with building center point location  | TBD   |
+| France      | 852,379         | Building heights (top_height) in meters along with building center point location  | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
 | Denmark     | 11,622          | Building heights (top_height) in meters along with building center point location  | TBD   |
 
 
