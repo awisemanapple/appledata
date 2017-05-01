@@ -41,7 +41,7 @@ The top_height data value is measured in meters. Please refer to [OSM height mea
 
 
 ## Additional Information
-For more information please contact our community lead [Andrew Wiseman](https://www.openstreetmap.org/user/Marion%20Barry)
+For more information please contact our community lead [Andrew Wiseman](https://www.openstreetmap.org/user/Marion%20Barry).
 
 
 ## Comments
