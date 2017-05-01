@@ -30,12 +30,13 @@ The building heights (top_height) were measured and calculated in 2013.  The lat
 The top_height data value is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
 
 
+
 ## Data Catalog
 
 | Country     | Count           | Description                                                                        | Link  |
 | ------------|-----------------|------------------------------------------------------------------------------------|-------|
 | France      | 852,379         | Building heights (top_height) in meters along with building center point location  | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
-| Denmark     | 11,622          | Building heights (top_height) in meters along with building center point location  | TBD   |
+| Denmark     | 11,622          | Building heights (top_height) in meters along with building center point location  | [Download](https://github.com/awisemanapple/appledata/blob/master/Denmark/dnk_building_heights.csv.zip)   |
 
 
 
