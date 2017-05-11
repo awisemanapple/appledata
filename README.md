@@ -1,9 +1,9 @@
-# Apple Building Height Data
+# Apple Building Data
 
 
 ## Introduction
 
-The dataset contains **864,001** building heights for parts of France & Denmark. 
+The dataset contains shape information about **1,501,785** buildings in France & Denmark including **715,793** buildings with height information.  
 
 
 ## License
@@ -15,19 +15,18 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**852,379** building heights in France and **11,622** building heights in Denmark. The building heights are labeled "top_height". Each top_height has a latitude & longitude coordinate representing the building's center point.  
+**1,447,270** building shapes in France (**704,172** with height inforamtion) and **54,515** building shapes in Denmark (**11,621** with height inforamtion). This data is represented in [shapefile](http://wiki.openstreetmap.org/wiki/Shapefiles) format.    
 
 **What was the creation process?**
-
-The building heights were measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
+The building shape information was hand digitized from high resolution aerial imagery.  The building height information was measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
 
 **When was the data captured?**
 
-The building heights (top_height) were measured and calculated in 2013.  The latitude (lat) and longitude (long) values were calculated and captured on 04/28/2017.  
+The building shape and height information was captured and calculated in 2013.  
 
 **What unit is the data measured in?**
 
-The top_height data value is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
+The building height information is measured in meters. Please refer to [OSM height measurements](https://wiki.openstreetmap.org/wiki/Map_Features/Units) for additional detail.  
 
 
 
