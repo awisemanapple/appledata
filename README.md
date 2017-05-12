@@ -15,7 +15,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**1,447,270** building shapes in France (**704,172** with height inforamtion) and **54,515** building shapes in Denmark (**11,621** with height inforamtion). This data is represented in [shapefile](http://wiki.openstreetmap.org/wiki/Shapefiles) format.    
+**1,447,270** building shapes in France (**704,172** with height information) and **54,515** building shapes in Denmark (**11,621** with height information). This data is represented in [shapefile](http://wiki.openstreetmap.org/wiki/Shapefiles) format.    
 
 **What was the creation process?**
 
