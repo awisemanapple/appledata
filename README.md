@@ -23,7 +23,7 @@ The building shape information was hand digitized from high resolution aerial im
 
 **When was the data captured?**
 
-The building shape and height information was captured and calculated in 2013.  
+The building shape and height information was captured and developed in 2013.  
 
 **What unit is the data measured in?**
 
@@ -33,10 +33,10 @@ The building height information is measured in meters. Please refer to [OSM heig
 
 ## Data Catalog
 
-| Country     | Count                         | Description                                                          | Link  |
-| ------------|-------------------------------|----------------------------------------------------------------------|-------|
-| France      | 1,447,270 (704,172 w/ heights)| Building shape and height information for buildings througout France | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
-| Denmark     | 54,515 (11,621 w/ heights)    | Building shape and height information for buildings througout Denmark| [Download](https://github.com/awisemanapple/appledata/blob/master/Denmark/dnk_building_heights.csv.zip)   |
+| Country     | Building Shape Count  | Building Height Count | Description                                                   | Link  |
+| ------------|-----------------------|-----------------------|---------------------------------------------------------------|-------|
+| France      | 1,447,270             | 704,172               | Building shape and height information for buildings througout France | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
+| Denmark     | 54,515                | 11,621                | Building shape and height information for buildings througout Denmark| [Download](https://github.com/awisemanapple/appledata/blob/master/Denmark/dnk_building_heights.csv.zip)   |
 
 
 
