@@ -33,10 +33,10 @@ The building height information is measured in meters. Please refer to [OSM heig
 
 ## Data Catalog
 
-| Country     | Building Shape Count  | Building Height Count | Description                                                   | Link  |
-| ------------|-----------------------|-----------------------|---------------------------------------------------------------|-------|
-| France      | 1,447,270             | 704,172               | Building shape and height information for buildings througout France | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
-| Denmark     | 54,515                | 11,621                | Building shape and height information for buildings througout Denmark| [Download](https://github.com/awisemanapple/appledata/blob/master/Denmark/dnk_building_heights.csv.zip)   |
+| Country     |  Shape Count  | Height Count | Description                                                   | Link  |
+| ------------|---------------|--------------|---------------------------------------------------------------|-------|
+| France      | 1,447,270     | 704,172      | Building shape and height information for buildings througout France | [Download](https://github.com/awisemanapple/appledata/blob/master/France/fra_building_heights.csv.zip)   |
+| Denmark     | 54,515        | 11,621       | Building shape and height information for buildings througout Denmark| [Download](https://github.com/awisemanapple/appledata/blob/master/Denmark/dnk_building_heights.csv.zip)   |
 
 
 
