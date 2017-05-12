@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The dataset contains shape information about **1,501,785** buildings in France & Denmark including **715,793** buildings with height information.  
+Apple is sharing building shape information for **1,501,785** buildings in France & Denmark including **715,793** buildings with height information.  
 
 
 ## License
