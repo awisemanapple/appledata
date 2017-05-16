@@ -33,10 +33,10 @@ The building height information is measured in meters. Please refer to [OSM heig
 
 ## Data Catalog
 
-| Country     |Shape Count|Height Count| Description                                                     | Link  |
-| ------------|-----------|------------|-----------------------------------------------------------------|-------|
-| France      | 1,447,270 | 704,172    | Building footprint & height information for buildings in France | [Download](https://apple.box.com/s/g33xo32h2pmvmfkno0rujgejqvecfmr7)   |
-| Denmark     | 54,515    | 11,621     | Building footprint & height information for buildings in Denmark| [Download](https://apple.box.com/s/xuaooquvo520uqn6w06pjginc2rjd67a)   |
+| Country     | Shape Count | Height Count | Description                                                       | Link       |
+| ------------|-------------|--------------|-------------------------------------------------------------------|------------|
+| France      | 1,447,270   | 704,172      | Building footprint & height information for buildings in France   | [Download](https://apple.box.com/s/g33xo32h2pmvmfkno0rujgejqvecfmr7)   |
+| Denmark     | 54,515      | 11,621       | Building footprint & height information for buildings in Denmark  | [Download](https://apple.box.com/s/xuaooquvo520uqn6w06pjginc2rjd67a)   |
 
 
 
