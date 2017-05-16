@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Apple is sharing building shape information for **1,501,785** buildings in France & Denmark including **715,793** with height information.  
+Apple is sharing building footprint information for **1,501,785** buildings in France & Denmark including **715,793** with height information.  
 
 
 ## License
@@ -15,15 +15,15 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What data is included?**
 
-**1,447,270** building shapes in France (**704,172** with height information) and **54,515** building shapes in Denmark (**11,621** with height information). This data is represented in [shapefile](http://wiki.openstreetmap.org/wiki/Shapefiles) format.    
+**1,447,270** building footprints in France (**704,172** with height information) and **54,515** building footprints in Denmark (**11,621** with height information). This data is represented in [shapefile](http://wiki.openstreetmap.org/wiki/Shapefiles) format.    
 
 **What was the creation process?**
 
-The building shape information was hand digitized from high resolution aerial imagery.  The building height information was measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
+The building footprint information was hand digitized from high resolution aerial imagery.  The building height information was measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
 
 **When was the data captured?**
 
-The building shape and height information was captured and developed in 2013.  
+The building footprint and height information was captured and developed in 2013.  
 
 **What unit is the data measured in?**
 
@@ -35,8 +35,8 @@ The building height information is measured in meters. Please refer to [OSM heig
 
 | Country     |  Shape Count  | Height Count | Description                                                   | Link  |
 | ------------|---------------|--------------|---------------------------------------------------------------|-------|
-| France      | 1,447,270     | 704,172      | Building shape and height information for buildings in France | [Download](https://apple.box.com/s/g33xo32h2pmvmfkno0rujgejqvecfmr7)   |
-| Denmark     | 54,515        | 11,621       | Building shape and height information for buildings in Denmark| [Download](https://apple.box.com/s/xuaooquvo520uqn6w06pjginc2rjd67a)   |
+| France      | 1,447,270     | 704,172      | Building footprint & height information for buildings in France | [Download](https://apple.box.com/s/g33xo32h2pmvmfkno0rujgejqvecfmr7)   |
+| Denmark     | 54,515        | 11,621       | Building footprint & height information for buildings in Denmark| [Download](https://apple.box.com/s/xuaooquvo520uqn6w06pjginc2rjd67a)   |
 
 
 
