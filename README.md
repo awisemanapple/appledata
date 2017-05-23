@@ -19,7 +19,7 @@ This contribution is made available for use under the OpenStreetMap [ODbL](https
 
 **What was the creation process?**
 
-The building footprint information was developed using high resolution aerial imagery.  The building height information was measured using sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
+The building information was developed using high resolution satellite imagery and sensors from low altitude aerial imagery. Due to the process in which the heights were calculated, the height value is an estimate and not the absolute measure of the building's height.  
 
 **When was the data captured?**
 
