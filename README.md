@@ -35,7 +35,7 @@ The shapefiles are available in two projections: [ESPG:3857, Pseudo Mercator](ht
 
 ## Data Catalog
 
-| Country     | Shape Count | Height Count | Description                                         | Projection              | Link       |
+| Country     | Shape Count | Height Count | Description | Projection | Link       |
 | ------------|-------------|--------------|-------------------------------------------------------------------|------------|
 | France      | 1,447,270   | 704,172      | Building footprint & height information for buildings in France | EPSG:4326)  | [Download](https://apple.box.com/s/6m1g33jyulharagiyyoj5r24uk0lz4q5)   |
 | France      | 1,447,270   | 704,172      | Building footprint & height information for buildings in France | EPSG:3857)   | [Download](https://apple.box.com/s/8rqmb7hlytthyve1vigckze7z18ko969)   |
