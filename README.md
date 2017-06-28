@@ -17,7 +17,7 @@ You can use this style in JOSM by copying out the link below and adding it to yo
 
 | Style Name     | Description | Link |
 | ------------|-------------|--------------|
-| Inline_Validation.mapcss      | Validate map data as you edit.   | https://github.com/awisemanapple/appledata/paint/     |
+| Inline_Validation.mapcss      | Validate map data as you edit.   | https://github.com/awisemanapple/appledata/archive/paint.zip     |
 
 
 ## License
