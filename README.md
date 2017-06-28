@@ -6,7 +6,7 @@
 Apple is sharing building footprint information for **1,501,785** buildings in France & Denmark including **715,793** with height information.  
 
 
-## License
+
 
 This contribution is made available for use under the OpenStreetMap [ODbL](https://opendatacommons.org/licenses/odbl/) license.
 
