@@ -5,6 +5,7 @@
 
 Apple is sharing building footprint information for **1,501,785** buildings in France & Denmark including **715,793** with height information.  
 
+The same data is shared at [osmlab/appledata](https://github.com/osmlab/appledata/blob/master/BUILDINGS.md)
 
 ## License
 
